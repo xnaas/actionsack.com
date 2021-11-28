@@ -1,0 +1,55 @@
+# General Config
+site_name: Action Sack
+site_description: 'Join today!'
+site_author: 'xnaas'
+copyright: 'Copyright &copy; 2015 - 2021 xnaas'
+site_url: 'https://actionsack.com'
+repo_url: 'https://github.com/xnaas/actionsack.com'
+repo_name: 'xnaas/actionsack.com'
+edit_uri: 'blob/master/src/docs/'
+docs_dir: 'src/docs'
+site_dir: 'website'
+
+# Navigation
+nav:
+  - 'index.md'
+  - 'rules.md'
+  - 'contact.md'
+
+# Plugins Config
+plugins:
+  - search:
+      lang: en
+
+# Theme Config
+theme:
+  name: material
+  locale: en
+  custom_dir: 'src/overrides'
+  palette:
+    scheme: slate
+    primary: red
+    accent: red
+  favicon: favicon.ico
+  logo: logo.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+  font: false
+
+# Extentions Config
+markdown_extensions:
+  - abbr
+  - admonition
+  - meta
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - src/overrides/.icons
+  - pymdownx.escapeall
+  - pymdownx.saneheaders
+  - toc:
+      permalink: '#'
