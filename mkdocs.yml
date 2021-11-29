@@ -28,14 +28,13 @@ theme:
   custom_dir: 'src/overrides'
   palette:
     scheme: slate
-    primary: red
-    accent: red
+    primary: deep orange
+    accent: orange
   favicon: favicon.ico
   logo: logo.png
   features:
     - navigation.instant
     - navigation.tabs
-    - navigation.tabs.sticky
   font: false
 
 # Extentions Config
