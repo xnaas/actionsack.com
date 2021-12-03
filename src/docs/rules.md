@@ -19,10 +19,11 @@ hide:
 
 ### Text Chat (IRC)
 
-1. Don't spam chat
-2. Don't advertise
+1. Never bridge chat to Discord. Ever.
+2. Don't spam chat.
+3. Don't advertise.
 
 ### Voice Chat (Mumble)
 
-1. Use PTT if you can't keep background noise to a minimum
-2. If you whistle into your microphone, I will skullfuck you and your entire family
+1. Use PTT if you can't keep background noise to a minimum.
+2. If you whistle into your microphone, I will skullfuck you and your entire family.
