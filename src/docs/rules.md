@@ -15,7 +15,7 @@ hide:
 
 !!! tip
     [@xnaas](https://xnaas.info) can ban you from any platform for any reason at any time.
-    The below are just general guidelines. Don't be an asshole and you're probably fine.
+    The below are just general guidelines. Don't be an asshat and you're probably fine.
 
 ### Text Chat (IRC)
 
@@ -26,4 +26,4 @@ hide:
 ### Voice Chat (Mumble)
 
 1. Use PTT if you can't keep background noise to a minimum.
-2. If you whistle into your microphone, I will skullfuck you and your entire family.
+2. Do not whistle into your microphone.
