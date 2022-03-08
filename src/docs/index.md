@@ -30,7 +30,7 @@ hide:
 
 ## Misc
 
-* [:fontawesome-solid-save: Download](https://dl.actionsack.com) :fontawesome-solid-lock:
+* [:fontawesome-solid-floppy-disk: Download](https://dl.actionsack.com) :fontawesome-solid-lock:
 * [:fontawesome-solid-images: Image Repo](https://p.actionsack.com)
-* [:fontawesome-solid-edit: Meme Wiki](https://srsbznz.actionsack.com)
+* [:fontawesome-solid-pen-to-square: Meme Wiki](https://srsbznz.actionsack.com)
 * [:custom-upptime: Statuspage](https://status.actionsack.com)
