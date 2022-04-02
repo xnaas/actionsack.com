@@ -23,7 +23,7 @@ hide:
 * [:fontawesome-brands-instagram: Bibliogram](https://bib.actionsack.com)
 * [:fontawesome-brands-twitter: Nitter](https://nitter.actionsack.com)
 * [:fontawesome-solid-tv: OpenTogetherTube](https://ott.actionsack.com)
-* [:fontawesome-solid-images: rimgu](https://i.actionsack.com)
+* [:fontawesome-solid-images: rimgo](https://i.actionsack.com)
 * [:fontawesome-solid-rss: RSS-Bridge](https://rss.actionsack.com) :fontawesome-solid-lock:
 * [:custom-send: Send](https://send.actionsack.com)
 * [:fontawesome-brands-youtube: youtube-dl](https://ytdl.actionsack.com)
