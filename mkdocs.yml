@@ -6,7 +6,7 @@ copyright: 'Copyright &copy; 2015 - 2022 xnaas'
 site_url: 'https://actionsack.com'
 repo_url: 'https://github.com/xnaas/actionsack.com'
 repo_name: 'xnaas/actionsack.com'
-edit_uri: 'blob/master/src/docs/'
+edit_uri: 'blob/main/src/docs/'
 docs_dir: 'src/docs'
 site_dir: 'website'
 
