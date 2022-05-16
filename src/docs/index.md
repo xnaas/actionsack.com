@@ -21,7 +21,7 @@ hide:
 ## Services
 
 * [:fontawesome-brands-instagram: Bibliogram](https://bib.actionsack.com)
-* [:fontawesome-brands-twitter: Nitter](https://nitter.actionsack.com)
+* [:fontawesome-brands-twitter: Nitter](https://n.actionsack.com)
 * [:fontawesome-solid-tv: OpenTogetherTube](https://ott.actionsack.com)
 * [:fontawesome-solid-images: rimgo](https://i.actionsack.com)
 * [:fontawesome-solid-rss: RSS-Bridge](https://rss.actionsack.com) :fontawesome-solid-lock:
