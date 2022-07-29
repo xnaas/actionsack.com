@@ -26,7 +26,7 @@ hide:
 * [:fontawesome-solid-images: rimgo](https://i.actionsack.com)
 * [:fontawesome-solid-rss: RSS-Bridge](https://rss.actionsack.com) :fontawesome-solid-lock:
 * [:custom-send: Send](https://send.actionsack.com)
-* [:fontawesome-brands-youtube: youtube-dl](https://ytdl.actionsack.com)
+* [:fontawesome-brands-youtube: youtube-dl](https://ytdl.actionsack.com) :fontawesome-solid-lock:
 
 ## Misc
 
